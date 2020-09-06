@@ -8,7 +8,6 @@ import org.antlr.v4.runtime.tree.ParseTree;
 import org.antlr.v4.runtime.tree.ParseTreeWalker;
 
 /**
- * @author 董帅阳
  * @version 1.0
  * @since 2020/9/2
  **/
